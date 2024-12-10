@@ -6,7 +6,7 @@ load  h_data.mat
 load  m_data.mat
 
 sparsityh = 0.0927;
-sparsitym = 0.0065;
+sparsitym = 0.062;
 Data1 = h_data;
 Data2 = m_data;
 Group_data = [Data1,Data2];
