@@ -1,4 +1,4 @@
-cd F:\11\suhui
+cd 
 load Region_id_neurons.mat
 neuron_ind(320) = []; % exclude the neuron (region id: 4)
 reg = unique(neuron_ind);
