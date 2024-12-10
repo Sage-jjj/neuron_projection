@@ -1,1 +1,1 @@
-The code for the axonal projection matrix
+The code for the neuronal morphological similarity network
